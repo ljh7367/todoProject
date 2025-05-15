@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+[API 명세](https://www.notion.so/1df7d863dc94809eb887fe6ae67cf06f)
 
 
 ### ERD
