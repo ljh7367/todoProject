@@ -1,6 +1,6 @@
 ### API
 
-![깃허브 로고]()
+![깃허브 로고](https://www.notion.so/1df7d863dc94809eb887fe6ae67cf06f)
 
 
 ### ERD
